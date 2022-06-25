@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    padding: 20% 30%;
+}
 #face {
     background-color: #f3f3f3;
     width: 300px;
